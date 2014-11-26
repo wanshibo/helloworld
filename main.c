@@ -6,6 +6,7 @@ int main(int argc, char *argv[])
     printf("wanshibo");
     printf("hello world!\n");
 	printf("haha");
+	//add something
     return 0;
 
 }
