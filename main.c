@@ -3,7 +3,7 @@
 int main(int argc, char *argv[])
 {
     printf("hello github!\n");
-    printf();
+    printf("wanshibo");
     printf("hello world!\n");
 	printf("haha");
     return 0;
